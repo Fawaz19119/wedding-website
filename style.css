@@ -222,12 +222,12 @@ footer li{
  }
 
  header div{
-    padding-top: 100px;
+    padding: 0px;
     margin: 0;
  }
 
  header{
-    height: 100vh;
+    height: 70vh;
  }
 
  main .guy{
