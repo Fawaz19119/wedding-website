@@ -42,6 +42,8 @@ header{
     background-position: center;
     background-size: cover;
     height: 70vh;
+    padding-top: 7rem;
+ 
 }
 
 
@@ -51,10 +53,10 @@ header div p{
 }
 
 header div{
-    border: 6px solid white;
     background-color: white;
     margin: 0px 450px;
-    padding-top: 150px;
+    padding: 40px;
+    border: 4px dotted black;
     
     
 }
@@ -63,7 +65,7 @@ header div h1{
     margin-bottom: 20px;
     font-size: 40px;
 }
-header
+
 header div h4{
     margin-bottom: 15px;
     color: rgb(235, 203, 161);
